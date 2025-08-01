@@ -202,5 +202,3 @@ This project is open-source and licensed under the [MIT License](LICENSE).
 ---
 
 **Happy Solving! 🧠🧊**
-
-Let me know if you want a **PDF**, **presentation format**, or **GitHub README styling** for this!
