@@ -1,0 +1,6 @@
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }],
+  "buildCommand": "cd cuber && npm install && npm run build",
+  "outputDirectory": "cuber/dist",
+  "installCommand": "cd cuber && npm install"
+}
